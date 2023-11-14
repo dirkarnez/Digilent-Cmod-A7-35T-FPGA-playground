@@ -16,7 +16,10 @@ Digilent-Cmod-A7-35T-FPGA-playground
 
 ### Reference
 - [Digilent/Cmod-A7-35T-XADC](https://github.com/Digilent/Cmod-A7-35T-XADC)
-- [Digilent/digilent-vivado-scripts](https://github.com/Digilent/digilent-vivado-scripts) 
+- [Digilent/digilent-vivado-scripts](https://github.com/Digilent/digilent-vivado-scripts)
+- [jodalyst/cmod_a7_spi_example: Development environment for SPI libraries for Digilent CMOD-A7 Artix-7 35T](https://github.com/jodalyst/cmod_a7_spi_example)
+- [charkster/cmod_a7_spi_sram: SPI slave to External SRAM interface for Cmod A7](https://github.com/charkster/cmod_a7_spi_sram)
+- [avinash-nonholonomy/olin-cafe-f22: Repository for Olin's ENGR3410 - Fall 2022](https://github.com/avinash-nonholonomy/olin-cafe-f22)
 
 ### `.gitignore`
 - [Vivado .gitignore](https://gist.github.com/iDoka/6147ea6cf320f09d7ca39477b090486a)
