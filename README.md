@@ -9,6 +9,7 @@ Digilent-Cmod-A7-35T-FPGA-playground
 
 ### XDC
 - [Digilent/digilent-xdc: A collection of Master XDC files for Digilent FPGA and Zynq boards.](https://github.com/Digilent/digilent-xdc)
+  - https://github.com/Digilent/digilent-xdc/blob/master/Cmod-A7-Master.xdc
 
 ### Reference Manual
 - [cmod_a7_rm.pdf](cmod_a7_rm.pdf)
@@ -16,3 +17,6 @@ Digilent-Cmod-A7-35T-FPGA-playground
 ### Reference
 - [Digilent/Cmod-A7-35T-XADC](https://github.com/Digilent/Cmod-A7-35T-XADC)
 - [Digilent/digilent-vivado-scripts](https://github.com/Digilent/digilent-vivado-scripts) 
+
+### `.gitignore`
+- [Vivado .gitignore](https://gist.github.com/iDoka/6147ea6cf320f09d7ca39477b090486a)
