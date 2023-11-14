@@ -12,3 +12,7 @@ Digilent-Cmod-A7-35T-FPGA-playground
 
 ### Reference Manual
 - [cmod_a7_rm.pdf](cmod_a7_rm.pdf)
+
+### Reference
+- [Digilent/Cmod-A7-35T-XADC](https://github.com/Digilent/Cmod-A7-35T-XADC)
+- [Digilent/digilent-vivado-scripts](https://github.com/Digilent/digilent-vivado-scripts) 
