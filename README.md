@@ -4,6 +4,9 @@ Digilent-Cmod-A7-35T-FPGA-playground
 - `XC7A35T-1CPG236C`
 
 ### Notes
+- [`project_1`](project_1) based on [Blinking LED on CMOD A7 Artix-7 35T | by Jogesh Singh | Medium](https://medium.com/@singhjogesh865/blinking-led-on-cmod-a7-artix-7-35t-67647b478ec9)
+  - with fix:
+    - `reg [27:0] cnt_clk = 28'd0 ;` (latest version of Vivado requires initialization) 
 - `xc7a35tcpg236-1`
 - Bitstream located at `${root}\project_1.runs\impl_1\led_blink.bit`
 
