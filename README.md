@@ -24,5 +24,9 @@ Digilent-Cmod-A7-35T-FPGA-playground
 - [charkster/cmod_a7_spi_sram: SPI slave to External SRAM interface for Cmod A7](https://github.com/charkster/cmod_a7_spi_sram)
 - [avinash-nonholonomy/olin-cafe-f22: Repository for Olin's ENGR3410 - Fall 2022](https://github.com/avinash-nonholonomy/olin-cafe-f22)
 
+### Tutorials
+- Verilog 
+  - [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
+
 ### `.gitignore`
 - [Vivado .gitignore](https://gist.github.com/iDoka/6147ea6cf320f09d7ca39477b090486a)
