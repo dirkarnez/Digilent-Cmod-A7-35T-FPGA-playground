@@ -2,6 +2,7 @@ Digilent-Cmod-A7-35T-FPGA-playground
 ====================================
 ### [Cmod A7-35T: Breadboardable Artix-7 FPGA Module - Digilent](https://digilent.com/shop/cmod-a7-35t-breadboardable-artix-7-fpga-module/)
 - `XC7A35T-1CPG236C`
+- [vivado-boards/new/board_files/cmod_a7-35t/B.0 at master · Digilent/vivado-boards](https://github.com/Digilent/vivado-boards/tree/master/new/board_files/cmod_a7-35t/B.0)
 
 ### Notes
 - [`project_1`](project_1) based on [Blinking LED on CMOD A7 Artix-7 35T | by Jogesh Singh | Medium](https://medium.com/@singhjogesh865/blinking-led-on-cmod-a7-artix-7-35t-67647b478ec9)
